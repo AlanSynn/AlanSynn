@@ -1,16 +1,18 @@
-### Hi there 👋
+<!-- ![](https://github.com/alansynn/alansynn/blob/main/banner.jpeg) -->
 
-<!--
-**AlanSynn/AlanSynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi👋 I'm Alan D.J. Synn</h1>
 
-Here are some ideas to get you started:
+- :lab_coat: Master Student @[HPIC](https://hpic.korea.ac.kr) in *KoreaUniversity*.
+- :cloud: AWS Educate Cloud Ambassador (APJ region)
+- :rocket: Freelance Solution Architect and Cloud Native Engineer
+- :speech_balloon: I really enjoy having a conversation about software architecture!
+- :grey_exclamation: Some other interests are..
+  - cloud native, distributed computing, MLsys etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">You can check other CV's in <a href="https://alansynn.com" target="blank">here</a>...</p>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansynn&show_icons=true&count_private=true" alt="alansynn" width="50%"/></p> -->
+
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
