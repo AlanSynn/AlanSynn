@@ -4,7 +4,8 @@
 
 - :lab_coat: Master Student @[HPIC](https://hpic.korea.ac.kr) in *KoreaUniversity*.
 - :cloud: AWS Educate Cloud Ambassador (APJ region)
-- :rocket: Freelance Solution Architect and Cloud Native Engineer
+- 🚀 Research Engineer @[Protopia-AI](https://github.com/protopia-ai)
+- 📖 Freelance Solution Architect and Cloud Native Engineer
 - :speech_balloon: I really enjoy having a conversation about software architecture!
 - :grey_exclamation: Some other interests are..
   - cloud native, distributed computing, MLsys etc...
