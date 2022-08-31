@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/alansynn/alansynn/blob/main/banner.jpeg) -->
 
-<h1 align="center">Hi👋 I'm Alan D.J. Synn</h1>
+<h1 align="center">Hi👋 I'm DoangJoo "Alan" Synn</h1>
 
 - 🧑‍🎓 Ph.D Student in Computer Science in *Georgia Tech*.
 - :lab_coat: Research Assistant @[SAIL Lab](https://faculty.cc.gatech.edu/~atumanov/) advised by [Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/)
