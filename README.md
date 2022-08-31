@@ -4,7 +4,7 @@
 
 - 🧑‍🎓 Ph.D Student in Computer Science in *Georgia Tech*.
 - :lab_coat: Research Assistant @[SAIL Lab](https://faculty.cc.gatech.edu/~atumanov/) advised by [Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/)
-- 🚀 Ex-Research Engineer @[Protopia-AI](https://github.com/protopia-ai), Research Assistant @HPIC in Korea University
+- 🚀 Ex-Research Engineer @[Protopia-AI](https://github.com/protopia-ai)
 - :cloud: Ex-AWS Cloud Ambassador (APJ region), Ex-Freelance Solution Architect and Cloud Native Engineer
 - :speech_balloon: I really enjoy having a conversation about software architecture!
 - :grey_exclamation: Some other interests are..
