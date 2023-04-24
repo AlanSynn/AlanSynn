@@ -3,7 +3,7 @@
 <h1 align="center">Hi, this is Alan <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-nyan.gif" height="32" /></h1>
 
 - 🧑‍🎓 Ph.D Student in Computer Science in *Georgia Tech*.
-- :lab_coat: Graduate Research Assistant @[SAIL Lab](https://faculty.cc.gatech.edu/~atumanov/) advised by [Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/)
+- :lab_coat: Graduate Research Assistant @[SAIL Lab](https://faculty.cc.gatech.edu/~atumanov/) advised by Professor. [Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/)
 - 🚀 Ex-Research Scientist @[Protopia-AI](https://github.com/protopia-ai)
 - :cloud: Ex-AWS Cloud Ambassador (APJ region)
 - :speech_balloon: System for ML, Distributed Computing, Cloud Computing
