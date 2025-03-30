@@ -2,16 +2,30 @@
 
 <h1 align="center">Hi, this is Alan <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-nyan.gif" height="32" /></h1>
 
-- 🧑‍🎓 Ph.D Student in Computer Science at *Georgia Tech*
-- :lab_coat: Graduate Research Assistant [@SAIL Lab](https://faculty.cc.gatech.edu/~atumanov/) advised by Professor. [Alexey Tumanov](https://faculty.cc.gatech.edu/~atumanov/)
-- 🚀 Ex-Research Scientist [@Protopia-AI](https://github.com/protopia-ai)
+- 🧑‍🎓 Ph.D. Student in Computer Science at *Georgia Institute of Technology*
+- :lab_coat: Advised by Prof. [HyunJoo Oh](https://www.codecraft.group/hyunjoo-oh) and Prof. [Sehoon Ha](https://faculty.cc.gatech.edu/~sha9/)
+- 🚀 Ex-Research Scientist [@Protopia-AI](https://protopia.ai)
 - :cloud: Ex-AWS Cloud Ambassador (APJ region)
-- :speech_balloon: System for ML, Distributed Computing, Cloud Computing
-- :grey_exclamation: Some other interests are..
-  - Cloud Native, Frameworks and Libraries, Operating Systems etc...
-- 🤙 Reach out to me: alan at alansynn.com
+- 📖 Ex-Lecturer at Korea University Science & Technology School
+- 🤙 Reach out to me: alansynn [at] gatech [dot] edu
 
-<!-- 
+### What I like most...
+
+#### 🧪 Research Interests
+- 🤖 Generative AI in computational design, particularly automata and kinematics
+- 🛠️ Human-AI collaboration in creative design processes
+- 🧩 Developing computational design frameworks that preserve human creative vision
+- 🔄 Creating intuitive tools for non-expert users in mechanical design projects
+- 🧠 Exploring how foundation models can revolutionize mechanical and computational design
+
+#### 💻 Technical Interests
+- 🧠 AI frameworks for human-machine co-creation
+- 🔍 Foundation models for computational creativity and design automation
+- 🔐 Computational design for creative process
+- ⚙️ Mechanical design tools and computational fabrication
+- 🤖 Interactive systems that bridge physical and digital experiences
+
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansynn&show_icons=true&count_private=true" alt="alansynn" width="50%"/></p>
 -->
 
@@ -29,4 +43,3 @@
 </p>
 <br>
 -->
-
