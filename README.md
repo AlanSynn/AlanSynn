@@ -1,6 +1,6 @@
 <!-- ![](https://github.com/alansynn/alansynn/blob/main/banner.jpeg) -->
 
-<h1 align="center">Hi, this is Alan <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-nyan.gif" height="32" /></h1>
+<h1 align="center">Hi, this is Alan <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/party-nyan.gif" width="32" /></h1>
 
 - 🧑‍🎓 Ph.D. Student in Computer Science at *Georgia Institute of Technology*
 - :lab_coat: Advised by Prof. [HyunJoo Oh](https://www.codecraft.group/hyunjoo-oh) and Prof. [Sehoon Ha](https://faculty.cc.gatech.edu/~sha9/)
